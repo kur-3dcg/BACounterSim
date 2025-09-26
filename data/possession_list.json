@@ -1,0 +1,191 @@
+[
+  {
+    "name": "イオリ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.99,
+    "image": "iori.png"
+  },
+  {
+    "name": "イオリ（水着）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "iori_swimsuit.png"
+  },
+  {
+    "name": "カノエ",
+    "attributes": "penetration",
+    "type": "tank",
+    "rate": 0.7,
+    "image": "kanoe.png"
+  },
+  {
+    "name": "コトリ（応援団）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "kotori_cheerleader.png"
+  },
+  {
+    "name": "コハル（水着）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.7,
+    "image": "koharu_swimsuit.png"
+  },
+  {
+    "name": "サオリ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.7,
+    "image": "saori.png"
+  },
+  {
+    "name": "ジュリ（アルバイト）",
+    "attributes": "mystery",
+    "type": "tank",
+    "rate": 0.3,
+    "image": "jyuri_part.png"
+  },
+  {
+    "name": "シュン",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "syun.png"
+  },
+  {
+    "name": "シロコ＊テラー",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "siroko_terror.png"
+  },
+  {
+    "name": "スミレ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.9,
+    "image": "sumire.png"
+  },
+  {
+    "name": "ツルギ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "turugi.png"
+  },
+  {
+    "name": "ネル（バニーガール）",
+    "attributes": "explosion",
+    "type": "tank",
+    "rate": 0.5,
+    "image": "neru_bunnie.png"
+  },
+  {
+    "name": "ネル（制服）",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "neru_uniform.png"
+  },
+  {
+    "name": "ハスミ（水着）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "hasumi_swimsuit.png"
+  },
+  {
+    "name": "ハナコ（水着）",
+    "attributes": "vibration",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "hanako_swimsuit.png"
+  },
+  {
+    "name": "ハルカ",
+    "attributes": "explosion",
+    "type": "tank",
+    "rate": 0.99,
+    "image": "haruka.png"
+  },
+  {
+    "name": "ハルナ（正月）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.7,
+    "image": "haruna_newyear.png"
+  },
+  {
+    "name": "ヒナ（水着）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "hina_swimsuit.png"
+  },
+  {
+    "name": "ホシノ",
+    "attributes": "penetration",
+    "type": "tank",
+    "rate": 0.99,
+    "image": "hoshino.png"
+  },
+  {
+    "name": "ホシノ（攻撃）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "hoshino_rinsen_a.png"
+  },
+  {
+    "name": "ホシノ（防御）",
+    "attributes": "mystery",
+    "type": "tank",
+    "rate": 0.95,
+    "image": "hoshino_rinsen_d.png"
+  },
+  {
+    "name": "マリナ",
+    "attributes": "penetration",
+    "type": "tank",
+    "rate": 0.7,
+    "image": "marina.png"
+  },
+  {
+    "name": "ミカ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.95,
+    "image": "mika.png"
+  },
+  {
+    "name": "ムツキ（正月）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.7,
+    "image": "mutsuki_newyear.png"
+  },
+  {
+    "name": "ユカリ（水着）",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "yukari_swimsuit.png"
+  },
+  {
+    "name": "レイサ",
+    "attributes": "penetration",
+    "type": "tank",
+    "rate": 0.7,
+    "image": "reisa.png"
+  },
+  {
+    "name": "レンゲ（水着）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.5,
+    "image": "renge_swimsuit.png"
+  }
+]

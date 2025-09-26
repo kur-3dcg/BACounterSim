@@ -1,0 +1,170 @@
+[
+  {
+    "name": "ナギサ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.3631,
+    "image": "nagisa.png"
+  },
+  {
+    "name": "アヤネ（水着）",
+    "attributes": "penetration",
+    "type": "tank.",
+    "rate": 0.2114,
+    "image": "ayane_swimsuit.png"
+  },
+  {
+    "name": "ヒビキ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.132,
+    "image": "hibiki.png"
+  },
+  {
+    "name": "サキ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.1134,
+    "image": "saki.png"
+  },
+  {
+    "name": "ミノリ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.0815,
+    "image": "minori.png"
+  },
+  {
+    "name": "ユズ（メイド）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.037,
+    "image": "yuzu_maid.png"
+  },
+  {
+    "name": "ウタハ",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.0184,
+    "image": "utaha.png"
+  },
+  {
+    "name": "イロハ",
+    "attributes": "mystery",
+    "type": "tank.",
+    "rate": 0.0126,
+    "image": "iroha.png"
+  },
+  {
+    "name": "佐天涙子",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.0059,
+    "image": "shaten.png"
+  },
+  {
+    "name": "サツキ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.0042,
+    "image": "satsuki.png"
+  },
+  {
+    "name": "マリー",
+    "attributes": "mystery",
+    "type": "ヒーラー",
+    "rate": 0.004,
+    "image": "marri.png"
+  },
+  {
+    "name": "アカネ（バニーガール）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.0032,
+    "image": "akane_bunnie.png"
+  },
+  {
+    "name": "フブキ（水着）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.003,
+    "image": "fubuki_swimsuit.png"
+  },
+  {
+    "name": "セリナ",
+    "attributes": "mystery",
+    "type": "ヒーラー",
+    "rate": 0.0019,
+    "image": "seirna.png"
+  },
+  {
+    "name": "セリカ（水着）",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.0018,
+    "image": "serika_swimsuit.png"
+  },
+  {
+    "name": "サヤ（私服）",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.0013,
+    "image": "saya_private.png"
+  },
+  {
+    "name": "ヒナタ（水着）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.0011,
+    "image": "hinata_swimsuit.png"
+  },
+  {
+    "name": "マシロ",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.0007,
+    "image": "mashiro.png"
+  },
+  {
+    "name": "スミレ（アルバイト）",
+    "attributes": "penetration",
+    "type": "attacker",
+    "rate": 0.0004,
+    "image": "sumire_part.png"
+  },
+  {
+    "name": "ミユ（水着）",
+    "attributes": "explosion",
+    "type": "attacker",
+    "rate": 0.0003,
+    "image": "miyu_swimsuit.png"
+  },
+  {
+    "name": "アツコ（水着）",
+    "attributes": "vibration",
+    "type": "ヒーラー",
+    "rate": 0.0002,
+    "image": "atsuko_swimsuit.png"
+  },
+  {
+    "name": "マシロ（水着）",
+    "attributes": "mystery",
+    "type": "attacker",
+    "rate": 0.0001,
+    "image": "mashiro_swimsuit.png"
+  },
+  {
+    "name": "ノドカ（温泉）",
+    "attributes": "explosion",
+    "type": "ヒーラー",
+    "rate": 0.0001,
+    "image": "nodoka_spa.png"
+  },
+  {
+    "name": "ハナコ",
+    "attributes": "penetration",
+    "type": "ヒーラー",
+    "rate": 0.0001,
+    "image": "hanako.png"
+  }
+]
